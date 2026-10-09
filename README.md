@@ -1,4 +1,4 @@
-#wallcollectionky 🌙
+#WallCollection
 
 A small collection of wallpapers I've gathered along the way.
 
