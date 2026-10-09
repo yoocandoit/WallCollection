@@ -4,8 +4,10 @@ A small collection of wallpapers I've gathered along the way.
 
 Mostly anime, pretty illustrations, and wallpapers that just feel right.
 
-anime · aesthetic · desktop
+Clone this repository and enjoy the collection.
+
+git clone https://github.com/USERNAME/wallcollectionky.git
 
 <p align="center">
-  <i>just wallpapers, just vibes. ♡</i>
+  <i>miaww♡</i>
 </p>
