@@ -4,10 +4,12 @@ A small collection of wallpapers I've gathered along the way.
 
 Mostly anime, pretty illustrations, and wallpapers that just feel right.
 
-Clone this repository and enjoy the collection.
+### 𖦹 Clone Repository
 
-git clone https://github.com/USERNAME/wallcollectionky.git
-
+```bash
+git clone https://github.com/USERNAME/WallCollection.git
+cd WallCollection
+```
 <p align="center">
   <i>miaww♡</i>
 </p>
